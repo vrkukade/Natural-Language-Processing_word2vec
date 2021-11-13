@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov  2 20:16:06 2021
-
-@author: AJ
-"""
-
 import nltk
 
 
